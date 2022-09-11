@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Abdul-Sammad/react-todo/static/css/main.beef6503.css",
+    "main.js": "/Abdul-Sammad/react-todo/static/js/main.c56fc161.js",
+    "static/js/787.2843ca88.chunk.js": "/Abdul-Sammad/react-todo/static/js/787.2843ca88.chunk.js",
+    "static/media/logo.svg": "/Abdul-Sammad/react-todo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Abdul-Sammad/react-todo/index.html",
+    "main.beef6503.css.map": "/Abdul-Sammad/react-todo/static/css/main.beef6503.css.map",
+    "main.c56fc161.js.map": "/Abdul-Sammad/react-todo/static/js/main.c56fc161.js.map",
+    "787.2843ca88.chunk.js.map": "/Abdul-Sammad/react-todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.c56fc161.js"
+  ]
+}
