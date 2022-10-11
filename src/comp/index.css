@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(119, 83, 39);
+}
+.label{
+    font-size: large;
+    font-weight: bold;
+    
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    padding-left: 10%;
+
+}
+.sub{
+    border-radius: 8px;
+    color: aliceblue;
+    background-color: blue;
+}
+.sub:hover{
+    background-color: black;
+}
+.hello{
+    font-size: large;
+        font-weight: bold;
+}
+h1{
+    font-size: larger;
+    font-weight: bold;
+}
+/* @media only screen and (min-width: 600px ) {
+    body {
+        background-color: lightblue;
+    }
+} */
+/* @media only screen and (min-width: 320px) {
+    body {
+        background-color: aquamarine;
+    }
+} */
